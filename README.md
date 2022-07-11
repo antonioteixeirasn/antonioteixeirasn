@@ -30,7 +30,7 @@
 
  
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/antonioteixeirasn/antonioteixeirasn"></a> visitas por aqui! Obrigado por vir! :D
+  Obrigado por vir! :D
 </p>
 
 
