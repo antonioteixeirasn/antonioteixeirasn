@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  Sou formado em Engenharia Elétrica com foco em Inteligência Artificial e Data Science.
+  Formado em Engenharia Elétrica, hoje trabalho com visão computacional e inteligência artificial.
 </p>
 
 
