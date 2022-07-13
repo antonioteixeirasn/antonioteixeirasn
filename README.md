@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  Formado em Engenharia Elétrica, hoje trabalho com visão computacional e inteligência artificial.
+  Sou aluno de mestrado e trabalho com visão computacional e inteligência artificial.
 </p>
 
 
